@@ -1,0 +1,1 @@
+before running the programme download and extract the dump files stackoverflow.com-Badges.7z and stackoverflow.com-Tags.7z from https://archive.org/download/stackexchange
